@@ -1,0 +1,26 @@
+.bild{
+max-width: 500px;
+margin: auto;
+}
+.social{
+  position: absolute;
+  top: 5.5%;
+  right: 0.1%;
+  transform: translate(-53%, -50%);
+  margin-top: 32px;
+}
+
+.social li{
+  list-style: none;
+  margin: 15px;
+  display: inline-block;
+  font-size: 25px;
+  color: white;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.social li a{
+  color: white;
+  text-decoration: none;
+}
